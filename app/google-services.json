@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137862734149",
+    "firebase_url": "https://my-simple-firebase-databaseapp.firebaseio.com",
+    "project_id": "my-simple-firebase-databaseapp",
+    "storage_bucket": "my-simple-firebase-databaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137862734149:android:d343a38c0df184d4e39e2c",
+        "android_client_info": {
+          "package_name": "com.king.mysimplefirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137862734149-knrraj18k5303jaa3ivcola9rt6tii3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.king.mysimplefirebasedatabaseapp",
+            "certificate_hash": "e98e4c3385a43eae91647e576784a6383d72eb9a"
+          }
+        },
+        {
+          "client_id": "137862734149-5c2csulib9qsd5dl2pmojes6597sire6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSgEzsDQ7tGxOm4atlKfgUIHutpa2nl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137862734149-5c2csulib9qsd5dl2pmojes6597sire6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
